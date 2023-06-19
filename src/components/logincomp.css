@@ -1,0 +1,25 @@
+.container {
+  margin: 50px auto;
+  width: 400px;
+  border-radius: 9px;
+  text-align: center;
+  background: white;
+  box-shadow: 0 12px 16px 0 rgb(0 0 0 / 9%), 0 17px 50px 0 rgba(41, 179, 96, 0.575);
+}
+  
+.label{
+  margin-top: 3px;
+  margin-bottom: 25px;
+  font-size: 10px;
+  color:rgb(173, 172, 172);
+  text-transform:capitalize;
+  text-decoration:wavy;
+  
+}
+
+.top{
+  background-color:white;
+  margin: 10px auto;
+  width: 100%;
+  border-radius: 5px;
+}

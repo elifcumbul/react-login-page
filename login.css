@@ -1,0 +1,10 @@
+.cont{
+    background-color:whitesmoke;
+    margin: 0 auto;
+    position: absolute;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    font-size: calc(10px + 2vmin);
+    height: 100%;
+}
